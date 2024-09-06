@@ -1,5 +1,5 @@
 # scan-protocol
-Scanning the protocol site from domain list. Detect if domains use HTTP or HTTPS
+Easy scanning the protocol site from domain list. Detect if domains use HTTP or HTTPS
 
 ```
 usage: scanprotocol.py [-h] [-d DOMAIN] [-l LIST] [-o OUTPUT] [-t THREADS]
